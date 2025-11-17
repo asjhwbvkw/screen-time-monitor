@@ -1,1 +1,11 @@
 python tracker.py
+
+Tracking started...
+Session: 42 minutes
+Saved to data.txt
+
+---
+
+## 📄 requirements.txt
+```txt
+# No external libraries needed
